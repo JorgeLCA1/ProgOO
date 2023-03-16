@@ -1,8 +1,6 @@
 # Propuesta de UML (Máquina expendedora)
 
-![alt text](https://github.com/JorgeLCA1/ProgOO/blob/main/ParadigmaOO/maquinaexp.svg "Máquina Expendedora")
-
-![alt text](https://github.com/JorgeLCA1/ProgOO/blob/main/ParadigmaOO/maquinaex.png "Máquina Expendedora")
+![alt text](https://github.com/JorgeLCA1/ProgOO/blob/main/img/maq.jpg "Máquina Expendedora")
 
 # Explicación del diagrama:
 

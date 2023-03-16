@@ -37,8 +37,8 @@ Para implementar el encapsulamiento, se utilizan modificadores de acceso (como p
 
 Es importante para la programación orientada a objetos porque permite que los objetos se comuniquen entre sí sin conocer la implementación interna de cada uno de ellos. Esto permite que los objetos sean reutilizables y que el código sea más fácil de mantener y permite una mayor seguridad y control sobre el código, reduce la posibilidad de errores y facilita la modificación y mantenimiento del código.
 
-![Encapsulamiento](./img/encapsulamiento.png)
-![Encapsulamiento](./img/poo5.gif)
+![Encapsulamiento](https://github.com/JorgeLCA1/ProgOO/blob/main/img/encapsulamiento.png)
+![Encapsulamiento](https://github.com/JorgeLCA1/ProgOO/blob/main/img/poo5.gif)
 ---
 ## 5.- Concepto de herencia:
 La herencia es un concepto fundamental en la programación orientada a objetos que permite que una clase herede los atributos y métodos de otra clase. La clase que hereda se denomina clase derivada o subclase, y la clase de la que hereda se denomina clase base o superclase.
