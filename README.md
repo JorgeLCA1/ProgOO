@@ -1,3 +1,6 @@
+![LogoITT](./img/unamed.jpg)
+# TECNOLÓGICO NACIONAL DE MÉXICO
+# INSITUTO TECNOLÓGICO DE TIJUANA
 # Programación Orientada a Objetos
 
 ## INDICE
@@ -8,3 +11,4 @@
 ---
 
 ## Jorge Luis Castro Alvarado 22211533
+## Profesor: Mario García 
