@@ -1,4 +1,4 @@
-![LogoITT](./img/unamed.jpg)
+![LogoITT](https://github.com/JorgeLCA1/ProgOO/blob/main/img/unnamed.jpg?raw=true)
 # TECNOLÓGICO NACIONAL DE MÉXICO
 # INSITUTO TECNOLÓGICO DE TIJUANA
 # Programación Orientada a Objetos
